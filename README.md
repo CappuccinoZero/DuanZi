@@ -7,6 +7,4 @@
 * rxJava2
 * Retrofit2+okHttp3+Gson
 * dataBinding
-* liveData
-* Glide4.9
 * Room
