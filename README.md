@@ -1,7 +1,7 @@
-# 随机段子
-## 学习设计mvvm模式的练习DEMO
+# 段子阅读器
+## 用于学习设计mvvm模式的练习简单DEMO
 
-设计环境：
+主要用到了：
 * androidX
 * viewModel
 * rxJava2
